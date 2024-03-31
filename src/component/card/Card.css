@@ -1,0 +1,18 @@
+.Parent_card{
+    display: flex;
+    gap: 50px;
+    padding-top: 50px !important;
+    padding-bottom: 40px !important;
+
+}
+
+.card{
+    padding: 30px !important;
+    display: flex !important;
+    flex-direction: row;
+    gap: 5px !important;
+}
+
+img{
+    width: 80px;
+}

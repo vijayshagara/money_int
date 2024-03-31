@@ -1,0 +1,26 @@
+.table_head {
+    margin-top: 40px !important;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 20px !important;
+}
+
+.div_input {
+    display: flex !important;
+    /* justify-content: space-evenly !important; */
+    gap: 20px;
+}
+
+.input_sty {
+    margin-top: 2px;
+    padding: 6px !important;
+    border: 2px solid rgb(114, 111, 111);
+    border-radius: 25px;
+    background-color: whitesmoke;
+}
+
+.tabple_product{
+    display: flex !important;
+    gap: 10px;
+}

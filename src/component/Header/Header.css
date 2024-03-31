@@ -1,0 +1,13 @@
+.navbar{
+    height: 50px; 
+    background-color: #f5e8e840 !important;
+}
+
+.form-control{
+    padding: 13px !important;
+}
+
+.hand_img{
+    width: 21px;
+    object-fit: cover !important;
+}
